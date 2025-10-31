@@ -1,5 +1,13 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+// CLIENT id
+//1003472617-ugln1dqg52lmb0kkasi708sir7c1bt7j.apps.googleusercontent.com
+
+//CHAVE SECRETA DO CLIENT
+//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
+
+
+
 # dependencies
 /node_modules
 /.pnp
