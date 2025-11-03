@@ -5,6 +5,7 @@ import heroImg from "../../public/assets/hero.png";
 
 
 export default function Home() {
+  console.log('.')
   return (
     <div className={styles.container}>
       <Head>
